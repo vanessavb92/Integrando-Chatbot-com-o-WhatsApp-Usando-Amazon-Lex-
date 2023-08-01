@@ -5,6 +5,11 @@ Integrando  Chatbot com o WhatsApp Usando Amazon Lex
 - Amazon Lex
 - Whatsapp
 - Twilio
+ 
+ ## Como ficou na AWS
+ ![Protótipo 01](chat2.png)
+
+ ![Protótipo 02](chatbot.png)
 
 ## Etapas
 
