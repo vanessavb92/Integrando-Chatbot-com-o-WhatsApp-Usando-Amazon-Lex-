@@ -7,8 +7,9 @@ Integrando  Chatbot com o WhatsApp Usando Amazon Lex
 - Twilio
  
  ## Como ficou na AWS
+ Aqui o chat esta ativo
  ![Protótipo 01](chat2.png)
-
+Aqui o chatbot onde eu tenho uma conversa com ele sobre as reservas
  ![Protótipo 02](chatbot.png)
 
 ## Etapas
