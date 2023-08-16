@@ -10,7 +10,7 @@ Integrando  Chatbot com o WhatsApp Usando Amazon Lex
  Aqui o chat esta ativo
  ![Protótipo 01](chat2.png)
 Aqui o chatbot onde eu tenho uma conversa com ele sobre as reservas
- ![Protótipo 02](chatbot.png)
+ ![Protótipo 02](chatbot.png) width="250" height="250" alt= "prototipo"
 
 ## Etapas
 
